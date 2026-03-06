@@ -10,6 +10,7 @@ YouTube has 800 million videos — but zero structure. This tool uses the **YouT
 [![YouTube API](https://img.shields.io/badge/YouTube-v3%20API-FF0000?logo=youtube&logoColor=white)](https://developers.google.com/youtube/v3)
 [![NLTK](https://img.shields.io/badge/NLP-NLTK%20VADER-green)](https://www.nltk.org/)
 [![NetworkX](https://img.shields.io/badge/Graph-NetworkX-blue)](https://networkx.org/)
+[![Social Media Mining](https://img.shields.io/badge/Skill-Social%20Media%20Mining-8A2BE2)](https://github.com/noopsd123/YouTube-Learning-Path-Generator)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ---
@@ -162,5 +163,4 @@ YouTube-Learning-Path-Generator/
 [LinkedIn](https://www.linkedin.com/in/noopurd) · [GitHub](https://github.com/noopsd123)
 
 ---
-
 
