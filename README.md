@@ -4,6 +4,8 @@
 
 YouTube has 800 million videos — but zero structure. This tool uses the **YouTube v3 API**, **NLP sentiment analysis**, and **graph theory** to automatically curate and sequence a personalized learning path from any topic you throw at it.
 
+> *"The goal isn't to watch more YouTube. It's to waste less time and actually learn."*
+
 [![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![YouTube API](https://img.shields.io/badge/YouTube-v3%20API-FF0000?logo=youtube&logoColor=white)](https://developers.google.com/youtube/v3)
 [![NLTK](https://img.shields.io/badge/NLP-NLTK%20VADER-green)](https://www.nltk.org/)
@@ -151,31 +153,14 @@ YouTube-Learning-Path-Generator/
 └── README.md
 ```
 
----
-
-## 🤝 Contributing
-
-Pull requests are welcome. For major changes, open an issue first to discuss what you'd like to change.
-
-1. Fork the repo
-2. Create your feature branch (`git checkout -b feature/transcript-analysis`)
-3. Commit your changes (`git commit -m 'Add transcript NLP support'`)
-4. Push to the branch (`git push origin feature/transcript-analysis`)
-5. Open a Pull Request
-
----
-
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for details.
 
 ---
 
 ## 🙋‍♀️ Author
 
-**Noopur** — Data Science @ Indiana University  
-[LinkedIn](https://www.linkedin.com/in/noopsd123) · [GitHub](https://github.com/noopsd123)
+**Noopur Shekhar Divekar** — Data Science @ Indiana University  
+[LinkedIn](https://www.linkedin.com/in/noopurd) · [GitHub](https://github.com/noopsd123)
 
 ---
 
-> *"The goal isn't to watch more YouTube. It's to waste less time and actually learn."*
+
